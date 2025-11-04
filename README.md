@@ -6,7 +6,7 @@ web giới thiệu về bản thân
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="Nguyễn Bá Anh Đạt, portfolio, sinh viên, Đại Nam, cá nhân, portfolio design, website cá nhân" />
+    <meta name="keywords" content="Nguyễn Bá Anh Đạt, portfolio, sinh viên, Đại Nam, cá nhân, website cá nhân" />
     <meta name="description" content="Xin chào! Mình là Nguyễn Bá Anh Đạt - Sinh viên Đại Nam, yêu thích công nghệ và lập trình." />
     <!-- Custom CSS -->
     <link rel="stylesheet" href="./assets/css/style.css">
@@ -96,7 +96,7 @@ web giới thiệu về bản thân
           <div class="content">
               <h3>Sinh viên Đại học Đại Nam</h3>
               <p>Chuyên ngành: Công nghệ thông tin</p>
-              <h4>2021 - 2025 | Đang học</h4>
+              <h4>2025 - 2029 | Đang học</h4>
           </div>
       </div>
   </div>
@@ -135,52 +135,3 @@ web giới thiệu về bản thân
               <button type="submit">
                   Gửi <i class="fa fa-paper-plane"></i>
               </button>
-          </div>
-      </form>
-    </div>
-  </div>
-</section>
-<!-- contact section ends -->
-
-<!-- footer section starts -->
-<section class="footer">
-  <div class="box-container">
-      <div class="box">
-          <h3>Portfolio - Nguyễn Bá Anh Đạt</h3>
-          <p>Cảm ơn bạn đã ghé thăm website cá nhân của mình.<br/>Kết nối với mình qua email hoặc mạng xã hội nhé!</p>
-      </div>
-
-      <div class="box">
-          <h3>Liên kết nhanh</h3>
-          <a href="#home"><i class="fas fa-chevron-circle-right"></i> Trang chủ</a>
-          <a href="#about"><i class="fas fa-chevron-circle-right"></i> Giới thiệu</a>
-          <a href="#education"><i class="fas fa-chevron-circle-right"></i> Học vấn</a>
-          <a href="#contact"><i class="fas fa-chevron-circle-right"></i> Liên hệ</a>
-      </div>
-
-      <div class="box">
-          <h3>Thông tin liên hệ</h3>
-          <p><i class="fas fa-phone"></i> 0989 026 599</p>
-          <p><i class="fas fa-envelope"></i> nguyenbaanhdat1072006@gmail.com</p>
-          <p><i class="fas fa-map-marked-alt"></i> Dư Dụ, Thanh Thùy, Thanh Oai, Hà Nội</p>
-      </div>
-  </div>
-
-  <h1 class="credit">Thiết kế bởi <i class="fa fa-heart pulse"></i> <a href="#">Nguyễn Bá Anh Đạt</a></h1>
-</section>
-<!-- footer section ends -->
-
-<!-- scroll top btn -->
-<a href="#home" aria-label="ScrollTop" class="fas fa-angle-up" id="scroll-top"></a>
-
-<!-- ==== JAVASCRIPT CDNS ==== -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.5/typed.min.js"></script>
-<script src="./assets/js/particles.min.js"></script>
-<script src="./assets/js/app.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.7.0/vanilla-tilt.min.js"></script>
-<script src="https://unpkg.com/scrollreveal"></script>
-<script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
-<script src="./assets/js/script.js"></script>
-</body>
-</html>
